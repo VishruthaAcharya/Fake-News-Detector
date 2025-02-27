@@ -3,4 +3,4 @@ a Fake News Detector that will be able to classify between fake and real news ma
 
 
 
-{link to the dataset i used: https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_}
+link to the dataset i used: https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_
